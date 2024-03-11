@@ -1,0 +1,21 @@
+DOWNLOADS
+=========
+
+1 - Pentaho Data Integration 9.4 CE(PDI)
+https://www.hitachivantara.com/en-us/products/pentaho-plus-platform/data-integration-analytics/pentaho-community-edition.html
+
+
+2 - Java
+
+https://www.oracle.com/br/java/technologies/downloads/#jdk21-windows
+
+	Configuração das Variáveis de Ambiente no Windows
+	-JAVA_HOME C:\Program Files\Java\jdk-21
+	-PENTAHO_JAVA_HOME C:\Program Files\Java\jdk-21
+
+3 - PostgreSQL
+
+https://www.postgresql.org/download/
+
+4 - Drive do PostgreSQL
+	postgresql-42.2.23.jar
