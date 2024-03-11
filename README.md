@@ -5,19 +5,33 @@ Ministrado em 10/03/2024 na Plataforma Sympla
 Profa. Ma. Ecila Alves de Oliveira Migliori
 
 Conteúdo:
+
 Introdução - Apresentação:
+
 •	Arquitetura de um BI
+
 •	Processamento OLTP x OLAP
+
 •	Cubos Multidimensionais
+
 •	ETL
+
 •	Sobre a Pentaho
+
 •	Principais Clientes
+
 •	Plataforma Pentaho
+
 •	Arquitetura Pentaho
+
 •	Pentaho BI Suíte
+
 •	Arquitetura Pentaho - PDI
+
 •	Pentaho Data Integration (PDI)
+
 •	Conhecendo o Pentaho Data Integration
+
 Introdução – Preparando o ambiente:
 Preparando o ambiente
 •	Instalação PDI
